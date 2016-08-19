@@ -1,6 +1,6 @@
 // Ajaxify
-// v1.0.1 - 30 September, 2012
-// https://github.com/browserstate/ajaxify
+// Fork:     https://github.com/meydjer/ajaxify
+// Original: https://github.com/browserstate/ajaxify
 (function(window,undefined){
 
 	// Prepare our Variables
